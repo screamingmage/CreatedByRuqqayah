@@ -1,8 +1,8 @@
 .fixed-container {
 	margin-left: auto;
     margin-right: auto;
-    padding: 40px 0;
-	width: 940px;
+    padding: 20px 0;
+	width: 1080px;
 }
 
 .fixed-container:before,
@@ -15,6 +15,35 @@
 .fixed-container:after {
   clear: both;
 }
+
+#copy h2  {
+	color: white;
+}
+
+#copy h4 {
+	color: white;
+}
+
+#copy p {
+	color: white;
+}
+
+.overview {
+	background: url(../img/hero-unit-large.png) no-repeat scroll right bottom transparent;
+	height: 400px;
+}
+
+.justify {
+	text-align: center;
+}
+
+.footer {
+    background-color: #F5F5F5;
+    border-top: 1px solid #E5E5E5;
+    margin-top: 70px;
+    padding: 70px 0;
+}
+
 
 
 
